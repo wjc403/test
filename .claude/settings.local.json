@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" init)",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" add multiplication_table.py traffic_light.py)",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" status)",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" commit -m \"Add multiplication table and traffic light scripts\")",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" remote add origin https://github.com/wjc403/test.git)",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" branch -M main)",
+      "Bash(git -C \"c:\\\\Users\\\\114028\\\\Desktop\\\\測試\" push -u origin main)"
+    ]
+  }
+}
